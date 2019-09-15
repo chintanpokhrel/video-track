@@ -1,0 +1,14 @@
+{
+  "name": "video-credits",
+  "version": "1.0.0",
+  "description": "add video credits based on whether the user has viewed most of the video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chintan\\",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
